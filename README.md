@@ -6,10 +6,11 @@ College Management System (CMS)
 Object-Oriented Programming with C++
 
 By : Surya Ammisetti
+
 Resource (Book): Object-Oriented Programming with C++ by E Balagurusamy (7e)
+
 IDE Used : Code Blocks 17.12
 
- 
 Learning Objectives
 After going through project, you will be able to 
 	Develop menu-driven applications in C++

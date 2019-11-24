@@ -1,8 +1,8 @@
 # College_Management_System
 CMS Application using CPP
-C++ PROJECT
 
 College Management System (CMS)
+
 Object-Oriented Programming with C++
 
 By : Surya Ammisetti

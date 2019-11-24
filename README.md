@@ -22,6 +22,7 @@ After going through project, you will be able to
 	Apply the file-handling concepts
 
 COLLEGE MANAGEMENT SYSTEM (CMS) : 
+
 CMS is a command-driven application that helps to maintain student and faculty records. It makes use of unique IDs and password 
 to restrict the access and usage of different areas of the portal to its correct target audience. The faculty portal allows the 
 faculty user to update faculty profile, including allocation of subjects to be taught. Likewise, the student portal helps to 
@@ -29,6 +30,7 @@ maintain student profile information, including allocation and de-allocation of 
 used for administrative purpose. It helps to make the user entry for the first time.
 
 The CMS  application code makes use of a wide array of C++ programming features. These includes :
+
 •	Concept of inheritance for code reusability
 
 •	Concept of function overloading that enhances the code readability
